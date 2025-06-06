@@ -125,7 +125,7 @@ app.post('/signup.html', function (req, res) {
     const transporter = nodemailer.createTransport({
         service: 'gmail',
         auth: {
-            user: 'sdivyanshu5561@gmail.com',
+            user: 'vrushalijaak123@gmail.com',
             pass: 'rllqpkstuoejbugo'
         }
     })
