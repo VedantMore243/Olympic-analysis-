@@ -1,0 +1,12 @@
+{
+  "name": "gfg-hackathon-1",
+  "version": "1.0.0",
+  "description": "The Olympics Data Analysis project is a web app that provides insights into 120 years of Olympic history, including country-specific performance and sports analytics. It offers users the ability to vote for their favorite players and explore historical data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
