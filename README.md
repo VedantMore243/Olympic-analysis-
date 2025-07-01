@@ -23,7 +23,7 @@ This project analyzes 120 years of Olympic Games data using Python and machine l
 | **Frontend**   | HTML, CSS, Bootstrap, JavaScript, React.js |
 | **Backend**    | Python (Streamlit), Node.js, Express.js   |
 | **Database**   | MongoDB, Mongoose                         |
-| **ML Tools**   | scikit-learn, pandas, seaborn, matplotlib |
+| **ML Tools**   | pandas, seaborn, matplotlib |
 | **Visualization** | Plotly, Tableau, Streamlit              |
 | **Hosting**    | GitHub Pages / Streamlit Cloud            |
 
